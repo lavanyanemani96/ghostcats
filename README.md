@@ -2,7 +2,7 @@
 
 Original dataset of cats: https://www.kaggle.com/spandan2/cats-faces-64x64-for-generative-models
 
-Repository of tests on Generative models
+Testing generative models on cats
 1. Autoencoder  
 2. Variational Autoencoder
 3. Generative Adversarial Networks 
